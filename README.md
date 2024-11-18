@@ -22,4 +22,6 @@ In final run, I achieved much higher model accuracy, where we were allowed a bit
 
 ![Screenshot 2024-11-19 024027](https://github.com/user-attachments/assets/fe15165a-6947-445e-8369-442ea86857fe)
 
+Also, I had run a code alongside camera which processed each test image according to camera inputs thus it is long list. I forgot to rewrite it so that it wouldn't appear.
+
 Required tools are "Python 3.10, Tensorflow(present version),Jupyter notebook and required libraries"
