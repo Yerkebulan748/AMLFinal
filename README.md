@@ -21,3 +21,5 @@ Also, additionally camera for detection couldn't label the signs correctly, unle
 In final run, I achieved much higher model accuracy, where we were allowed a bit more freedom in placement of sign.
 
 ![Screenshot 2024-11-19 024027](https://github.com/user-attachments/assets/fe15165a-6947-445e-8369-442ea86857fe)
+
+Required tools are "Python 3.10, Tensorflow(present version),Jupyter notebook and required libraries"
